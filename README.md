@@ -13,7 +13,7 @@
 3. Run the application.
 
 'final project'
-'''pyhon code
+'''python code
 def hello():
     print("Hello, Markdown!")
 
